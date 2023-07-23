@@ -33,19 +33,21 @@ const CapturePage = () => {
           </div>
         </div>
 
-        <div className={styles.ctaContainer}>
-          <div className={styles.title}>
-            TUDO CERTO
-          </div>
+        <div className={styles.gradientContainer}>
+          <div className={styles.ctaContainer}>
+            <div className={styles.title}>
+              TUDO CERTO
+            </div>
 
-          <div className={styles.line} />
+            <div className={styles.line} />
 
-          <div className={styles.description}>
-            CLIQUE NO BOTÃO ABAIXO
-          </div>
+            <div className={styles.description}>
+              CLIQUE NO BOTÃO ABAIXO
+            </div>
 
-          <div className={styles.button} onClick={openRandomLink}>
-            FALE COMIGO AGORA
+            <div className={styles.button} onClick={openRandomLink}>
+              FALE COMIGO AGORA
+            </div>
           </div>
         </div>
       </div>
