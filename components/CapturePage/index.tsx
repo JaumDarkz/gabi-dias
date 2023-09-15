@@ -7,11 +7,11 @@ import flag from '@/public/assets/flag.svg'
 
 const CapturePage = () => {
   const links = [
-    'https://api.whatsapp.com/send?phone=5531993144570&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
-    'https://api.whatsapp.com/send?phone=5531993145153&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
-    'https://api.whatsapp.com/send?phone=5531993145477&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
-    'https://api.whatsapp.com/send?phone=5531993145548&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
-    'https://api.whatsapp.com/send?phone=5531993145709&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta'
+    'https://api.whatsapp.com/send?phone=5531991520161&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta'
+    // 'https://api.whatsapp.com/send?phone=5531993145153&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    // 'https://api.whatsapp.com/send?phone=5531993145477&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    // 'https://api.whatsapp.com/send?phone=5531993145548&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta',
+    // 'https://api.whatsapp.com/send?phone=5531993145709&text=Ola%20vi%20o%20video%20no%20tiktok%20e%20quero%20a%20ferramenta'
   ]
 
   const openRandomLink = () => {
